@@ -1,2 +1,2 @@
 const message = "first file";
-const newMessage = 'new chamges';
+const diffMessage = 'different chamges';
